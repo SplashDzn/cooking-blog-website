@@ -1,6 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Cooking Blog Recipe Website</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Project Screenshots:</h3>
+<img src="https://imgur.com/nSxREtL.png">
 <p align="left">
 </p>
 
