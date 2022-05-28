@@ -1,7 +1,12 @@
 <h3 align="center">Cooking Blog Recipe Website</h3>
 
 <h3 align="left">Project Screenshots:</h3>
-<img src="https://imgur.com/nSxREtL.png">
+<div align="center">
+  <img src="https://imgur.com/nSxREtL.png">
+<img src="https://imgur.com/2NnPlbV.png">
+<img src="https://imgur.com/KELP6Cj.png">
+<img src="https://imgur.com/DrkXO3K.png">
+</div>
 <p align="left">
 </p>
 
